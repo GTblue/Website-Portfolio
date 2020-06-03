@@ -2,7 +2,7 @@
 
 
 
-### Framework 
+## Framework 
 
 #### Website consists of three pages About Me, Contact & Portfolio
 #### Bootstrap, Javascript and JQuery configurations have been added
