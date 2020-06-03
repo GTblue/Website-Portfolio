@@ -4,6 +4,10 @@ body {
     width: 100%;
 }
 
+.top {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
 .img-thumbnail {
     width: 350px;
     height: 350px;
