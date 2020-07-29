@@ -11,7 +11,7 @@
 
 ## Website Preview
 
-![portfolio-picture](./Assets/Screenshot.jpg)
+![portfolio-picture](./assets/Screenshot.jpg)
 
 ## Contributing 
 
